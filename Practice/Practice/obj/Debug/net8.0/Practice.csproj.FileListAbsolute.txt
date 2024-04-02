@@ -1,0 +1,14 @@
+C:\Users\nybak\source\repos\Practice\Practice\bin\Debug\net8.0\Practice.exe
+C:\Users\nybak\source\repos\Practice\Practice\bin\Debug\net8.0\Practice.deps.json
+C:\Users\nybak\source\repos\Practice\Practice\bin\Debug\net8.0\Practice.runtimeconfig.json
+C:\Users\nybak\source\repos\Practice\Practice\bin\Debug\net8.0\Practice.dll
+C:\Users\nybak\source\repos\Practice\Practice\bin\Debug\net8.0\Practice.pdb
+C:\Users\nybak\source\repos\Practice\Practice\obj\Debug\net8.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nybak\source\repos\Practice\Practice\obj\Debug\net8.0\Practice.AssemblyInfoInputs.cache
+C:\Users\nybak\source\repos\Practice\Practice\obj\Debug\net8.0\Practice.AssemblyInfo.cs
+C:\Users\nybak\source\repos\Practice\Practice\obj\Debug\net8.0\Practice.csproj.CoreCompileInputs.cache
+C:\Users\nybak\source\repos\Practice\Practice\obj\Debug\net8.0\Practice.dll
+C:\Users\nybak\source\repos\Practice\Practice\obj\Debug\net8.0\refint\Practice.dll
+C:\Users\nybak\source\repos\Practice\Practice\obj\Debug\net8.0\Practice.pdb
+C:\Users\nybak\source\repos\Practice\Practice\obj\Debug\net8.0\Practice.genruntimeconfig.cache
+C:\Users\nybak\source\repos\Practice\Practice\obj\Debug\net8.0\ref\Practice.dll
